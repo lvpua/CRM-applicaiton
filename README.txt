@@ -1,6 +1,6 @@
 Software II - Scheduling System
 By- Lois Vernon Pua
-Student ID:008443322 - /* Will be removed when assesment passes. */
+
 
 Date: 10/27/2021
 IDE: Apache NetBeans IDE 12.2

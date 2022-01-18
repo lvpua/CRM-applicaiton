@@ -2,7 +2,6 @@ Software II - Scheduling System
 By- Lois Vernon Pua
 
 
-Date: 10/27/2021
 IDE: Apache NetBeans IDE 12.2
 JDK: Java 11.0.11
 JavaFX: javafx-sdk11.0.2

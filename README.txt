@@ -26,3 +26,5 @@ appointments, customers, and reports. (Pressing Log out will return the user to 
 
 Javadocs are located in the Javadocs/ folder in the main directory. 
 Please Run: Javadoc/index.html to view the documentation.
+
+
